@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "patbvxveiTOL2KvCOs3+aIl1ZkzYxT/9xS5iHxg0wSf9CI4bCaZtT0bKh6nbGBUwJ162vT0Wkk06wM5rCkxGDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\haithal\\source\\repos\\TestingProjectPhase5\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haithal\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\microsoft.net.test.sdk\\17.3.2\\microsoft.net.test.sdk.17.3.2.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.3.2\\microsoft.testplatform.objectmodel.17.3.2.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\microsoft.testplatform.testhost\\17.3.2\\microsoft.testplatform.testhost.17.3.2.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\nunit.analyzers\\3.5.0\\nunit.analyzers.3.5.0.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\nunit3testadapter\\4.3.0\\nunit3testadapter.4.3.0.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\selenium.webdriver\\4.9.1\\selenium.webdriver.4.9.1.nupkg.sha512",
+    "C:\\Users\\haithal\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
